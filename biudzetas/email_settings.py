@@ -1,2 +1,2 @@
-MAIL_USERNAME = "pythonkursascodeacademy@gmail.com"
-MAIL_PASSWORD = "pythonkursas"
+MAIL_USERNAME = ""
+MAIL_PASSWORD = ""
